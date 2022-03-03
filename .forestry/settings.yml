@@ -4,12 +4,12 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: Heading-to-Group
 - type: document
   path: README-FORESTRY.md
   label: Help
   read_only: true
+- type: heading
+  label: Heading-to-Group
 - type: directory
   path: content
   label: Pages
