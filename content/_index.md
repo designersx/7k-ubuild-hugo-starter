@@ -1,6 +1,7 @@
 ---
 layout: blocks
-title: 7k Startup - Build it Fast
+title: 7K Startup | Build your Idea into a Successful Startup with Product Development
+  & Funding support
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
