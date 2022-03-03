@@ -79,3 +79,6 @@ page_sections:
   content: Hello world!
 
 ---
+Some content here
+
+![](/uploads/2018/06/21/drone-photo.jpeg)
