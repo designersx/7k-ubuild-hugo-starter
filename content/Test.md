@@ -1,7 +1,7 @@
 +++
 date = ""
 layout = "blocks"
-title = ""
+title = "Just at test "
 [[page_sections]]
 background_image = "/uploads/pexels-fauxels-3183172.jpg"
 block = "hero-2"
