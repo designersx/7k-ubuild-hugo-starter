@@ -33,6 +33,7 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  logo: Where is the Logo here?
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -82,3 +83,5 @@ page_sections:
 Some content here
 
 ![](/uploads/2018/06/21/drone-photo.jpeg)
+
+Is this the HERO section?
